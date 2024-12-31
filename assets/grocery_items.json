@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Apple",
+    "price": 150.0,
+    "imageUrl": "https://organicmandya.com/cdn/shop/files/Apples_bf998dd2-0ee8-4880-9726-0723c6fbcff3.jpg?v=1721368465&width=1000",
+    "category": "Fruits"
+  },
+  {
+    "name": "Banana",
+    "price": 160.0,
+    "imageUrl": "https://spar2u.lk/cdn/shop/files/Kolikuttubanana_458x595.jpg?v=1714653899",
+    "category": "Fruits"
+  },
+  {
+    "name": "Carrot",
+    "price": 250.0,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4ufQ7N_M5WBs8MaVwKAtB71mTDO5D-kpWg&s",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Milk",
+    "price": 330.0,
+    "imageUrl": "https://cdn.store-factory.com/www.culinaide.com/content/product_4801045b.jpg?v=1597660182",
+    "category": "Dairy"
+  },
+  {
+    "name": "Orange",
+    "price": 180.0,
+    "imageUrl": "https://www.shutterstock.com/image-photo/orange-fruit-slices-leaves-isolated-260nw-1386912362.jpg",
+    "category": "Fruits"
+  },
+  {
+    "name": "Tomato",
+    "price": 200.0,
+    "imageUrl": "https://media.istockphoto.com/id/1450576005/photo/tomato-isolated-tomato-on-white-background-perfect-retouched-tomatoe-side-view-with-clipping.jpg?s=2048x2048&w=is&k=20&c=Qkb7A2KelBAmO68thBItajNc2AFnbXEOBLZvV4kHq98=",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Cheese",
+    "price": 450.0,
+    "imageUrl": "https://cdn.usdairy.com/optimize/getmedia/9091b0fa-4e5c-42cc-90ca-34614818982d/emmental.jpg.jpg.aspx?format=webp",
+    "category": "Dairy"
+  },
+  {
+    "name": "Broccoli",
+    "price": 280.0,
+    "imageUrl": "https://paddocktopantry.co.nz/cdn/shop/products/23.jpg?v=1693346284",
+    "category": "Vegetables"
+  }
+ ]
