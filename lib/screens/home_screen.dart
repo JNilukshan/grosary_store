@@ -7,7 +7,7 @@ import '../providers/cart_provider.dart';
 import 'cart_screen.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
       items = data.map((item) => GroceryItem.fromJson(item)).toList();
       categories = [
         'All',
-        ...items.map((item) => item.category).toSet().toList()
+        ...items.map((item) => item.category).toSet()
       ];
     });
   }
